@@ -1,0 +1,24 @@
+{
+  "name": "PacmanMyVersion",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamaGustavo/PacmanMyVersion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GamaGustavo/PacmanMyVersion/issues"
+  },
+  "homepage": "https://github.com/GamaGustavo/PacmanMyVersion#readme",
+  "devDependencies": {
+    "electron": "^11.0.4"
+  }
+}
