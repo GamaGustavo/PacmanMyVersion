@@ -1,0 +1,21 @@
+body{
+    padding: 0;
+}
+#Sec1{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+.labirinto{
+    width: 800px;
+    height:600px;
+    background-color: aqua;
+    display: flex;
+    /*grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    grid-template-columns: repeat(2 ,1fr);*/
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}

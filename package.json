@@ -1,7 +1,7 @@
 {
   "name": "PacmanMyVersion",
   "version": "1.0.0",
-  "description": "",
+  "description": "Meu jogo",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/GamaGustavo/PacmanMyVersion.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gustavo Avila Gama",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GamaGustavo/PacmanMyVersion/issues"
